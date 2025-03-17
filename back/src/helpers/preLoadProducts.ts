@@ -44,7 +44,7 @@ const productsToPreLoad: IProduct[] = [
       price: 399,
       description:
          'Stay connected and healthy with the Apple Watch Series 6: track your workouts, monitor your health, and stay in touch with the people and information you care about most. Experience the future of health and wellness with the Apple Watch Series 6.',
-      image: 'https://www.etech.com.uy/web/image/product.product/3180/image_512?unique=571a396',
+      image: 'https://m.media-amazon.com/images/I/41+UF6PgvEL._AC_.jpg',
       categoryId: 4,
       stock: 10,
    },
