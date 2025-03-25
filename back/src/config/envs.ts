@@ -10,4 +10,5 @@ export const DB_PORT: number = Number(process.env.DB_PORT) || 5432;
 export const JWT_SECRET: string = process.env.JWT_SECRET || 'secret';
 
 export const DATABASE_URL: string =
-   process.env.DATABASE_URL || 'postgres://localhost:5432/defaultdb';
+   process.env.DATABASE_URL ||
+   'postgresql://postgres.nmmpnkmldxgmuxfwxikw:DZi6dJHCF4F224cC@aws-0-us-west-1.pooler.supabase.com:5432/postgres';
